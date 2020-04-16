@@ -76,6 +76,8 @@ The team make the decision and the managers let it work it out.
 * Level 5-7: decision making is with the team 
 * Level 4: team and managers decide toghether
 
+---
+
 ![](https://vividbreeze.com/wp-content/uploads/2017/08/delegationPoker.png)
 
 ---
@@ -95,9 +97,13 @@ Make a list of pre-defined cases or situations in which you want to create a del
 
 ---
 # Delegation poker - Steps
+
 1. One person picks out a situation to read aloud OR he tells a story from personal experience.
 2. Each player chooses one of the seven delegation cards privately, reflecting on how she would delegate the decision in that particular situation.
 3. Once all players have decided, they can then reveal their selected cards.
+
+---
+# Delegation poker - Steps
 4. Everyone earns points according to the value of thei card, except the players that are the “highest minority” (see below).
 5. Let the people with the highest and the lowest cards explain the reasoning behind their choices.
 6. You can then create a Delegation Board to show the results of your consensus.
