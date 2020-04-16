@@ -9,14 +9,14 @@ description: Slide di presentazione dei livelli di delega
 
 ![bg left](https://miro.medium.com/max/8000/1*0bG7KfkJT0pNWrcSZJMclA.jpeg)
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ddepaoli3/md-slides-template/markdown%20slides/master?style=for-the-badge&logo=github) ![GitHub Pages](https://img.shields.io/static/v1?style=for-the-badge&label=pages&message=online&color=success&logo=github) ![GitHub Release](https://img.shields.io/github/v/release/ddepaoli3/md-slides-template?style=for-the-badge&logo=github)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/claranet-coast/delegation-level-presentation/markdown%20slides/master?style=for-the-badge&logo=github) ![GitHub Pages](https://img.shields.io/static/v1?style=for-the-badge&label=pages&message=online&color=success&logo=github) ![GitHub Release](https://img.shields.io/github/v/release/claranet-coast/delegation-level-presentation?style=for-the-badge&logo=github)
 
-This slide deck is made by testing using [marp](https://marp.app), [releases](https://github.com/ddepaoli3/md-slides-template/releases), and [pages](https://github.com/ddepaoli3/md-slides-template/deployments).
+This slide deck is made by testing using [marp](https://marp.app), [releases](https://github.com/claranet-coast/delegation-level-presentation/releases), and [pages](https://github.com/claranet-coast/delegation-level-presentation/deployments).
 
 
 ---
 
-![bg right](https://it.jarofquotes.com/citazioni/54566.jpg)
+![](https://it.jarofquotes.com/citazioni/54566.jpg)
 
 ---
 
