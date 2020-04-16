@@ -114,3 +114,6 @@ Make a list of pre-defined cases or situations in which you want to create a del
 * [The 7 levels of delegation](https://medium.com/@jurgenappelo/the-7-levels-of-delegation-672ec2a48103)
 * [Delegation Poker](https://vividbreeze.com/delegation-poker/)
 * [Delegation poker online game](http://www.delegationpoker.com/)
+
+---
+![](https://images-na.ssl-images-amazon.com/images/I/71yfqncGR%2BL.jpg)
