@@ -107,3 +107,10 @@ Make a list of pre-defined cases or situations in which you want to create a del
 4. Everyone earns points according to the value of thei card, except the players that are the “highest minority” (see below).
 5. Let the people with the highest and the lowest cards explain the reasoning behind their choices.
 6. You can then create a Delegation Board to show the results of your consensus.
+
+---
+# Reference
+
+* [The 7 levels of delegation](https://medium.com/@jurgenappelo/the-7-levels-of-delegation-672ec2a48103)
+* [Delegation Poker](https://vividbreeze.com/delegation-poker/)
+* [Delegation poker online game](http://www.delegationpoker.com/)
