@@ -112,8 +112,10 @@ Make a list of pre-defined cases or situations in which you want to create a del
 # Reference
 
 * [The 7 levels of delegation](https://medium.com/@jurgenappelo/the-7-levels-of-delegation-672ec2a48103)
-* [Delegation Poker](https://vividbreeze.com/delegation-poker/)
+* [Delegation Poker 1](https://vividbreeze.com/delegation-poker/)
+* [Delegation poker 2](https://management30.com/practice/delegation-poker/)
 * [Delegation poker online game](http://www.delegationpoker.com/)
+* [Management 3.0 book](https://books.google.it/books/about/Management_3_0.html?id=Yoh9mTBwj-sC)
 
 ---
 ![](https://images-na.ssl-images-amazon.com/images/I/71yfqncGR%2BL.jpg)
