@@ -85,6 +85,16 @@ The team make the decision and the managers let it work it out.
 ![](https://www.staynerd.com/wp-content/uploads/3833081-6535156727-quote.jpg)
 
 ---
+# Esempio - Team core
+## Luglio 2019
+
+(2) Sell / (3) Consul
+
+## Novembre 2019
+
+(6) Inquire
+
+---
 
 > `(...) il trasferimento da un organo superiore ad altro organo subordinato di determinate funzioni.`
 
