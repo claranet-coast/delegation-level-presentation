@@ -5,13 +5,13 @@ title: Livelli di delega nel team coast
 description: Slide di presentazione dei livelli di delega
 ---
 
-# INTRO
+# Livelli di delega nel team coast
 
 ![bg left](https://miro.medium.com/max/8000/1*0bG7KfkJT0pNWrcSZJMclA.jpeg)
 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/claranet-coast/delegation-level-presentation/markdown%20slides/master?style=for-the-badge&logo=github) ![GitHub Pages](https://img.shields.io/static/v1?style=for-the-badge&label=pages&message=online&color=success&logo=github) ![GitHub Release](https://img.shields.io/github/v/release/claranet-coast/delegation-level-presentation?style=for-the-badge&logo=github)
 
-This slide deck is made by testing using [marp](https://marp.app), [releases](https://github.com/claranet-coast/delegation-level-presentation/releases), and [pages](https://github.com/claranet-coast/delegation-level-presentation/deployments).
+This slide deck was made by testing [marp](https://marp.app), [releases](https://github.com/claranet-coast/delegation-level-presentation/releases), and [pages](https://github.com/claranet-coast/delegation-level-presentation/deployments).
 
 
 ---
@@ -92,7 +92,7 @@ The team make the decision and the managers let it work it out.
 
 ## Novembre 2019
 
-(6) Inquire
+(6) Inquire / (7) Delegate
 
 ---
 
