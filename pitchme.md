@@ -15,8 +15,8 @@ This slide deck was made by testing [marp](https://marp.app), [releases](https:/
 
 
 ---
-![bg up](https://aspgems.com/en/wp-content/uploads/2018/05/Curso_management3.0.png)
-![bg down](https://images-na.ssl-images-amazon.com/images/I/417UtzrbiSL._SX380_BO1,204,203,200_.jpg)
+![bg left:33%](https://aspgems.com/en/wp-content/uploads/2018/05/Curso_management3.0.png)
+![bg right:33%](https://images-na.ssl-images-amazon.com/images/I/417UtzrbiSL._SX380_BO1,204,203,200_.jpg)
 
 ---
 ![](https://it.jarofquotes.com/citazioni/54566.jpg)
@@ -75,7 +75,7 @@ The team make the decision and the managers let it work it out.
 ---
 # Bidirectional
 
-![50%](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flickr_-_MrSnooks_-_Cairo%2C_Egypt_%289%29.jpg/1200px-Flickr_-_MrSnooks_-_Cairo%2C_Egypt_%289%29.jpg)
+![width:100px](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flickr_-_MrSnooks_-_Cairo%2C_Egypt_%289%29.jpg/1200px-Flickr_-_MrSnooks_-_Cairo%2C_Egypt_%289%29.jpg)
 
 * Level 1-3: decision making with the managers 
 * Level 5-7: decision making is with the team 
@@ -83,7 +83,7 @@ The team make the decision and the managers let it work it out.
 
 ---
 
-![75%](https://vividbreeze.com/wp-content/uploads/2017/08/delegationPoker.png)
+![bg contain](https://vividbreeze.com/wp-content/uploads/2017/08/delegationPoker.png)
 
 ---
 # Responsabilità
