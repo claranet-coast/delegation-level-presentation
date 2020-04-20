@@ -15,8 +15,8 @@ This slide deck was made by testing [marp](https://marp.app), [releases](https:/
 
 
 ---
-![bg left:33%](https://aspgems.com/en/wp-content/uploads/2018/05/Curso_management3.0.png)
-![bg right:33%](https://images-na.ssl-images-amazon.com/images/I/417UtzrbiSL._SX380_BO1,204,203,200_.jpg)
+![bg left:contain](https://aspgems.com/en/wp-content/uploads/2018/05/Curso_management3.0.png)
+![bg right:contain](https://images-na.ssl-images-amazon.com/images/I/417UtzrbiSL._SX380_BO1,204,203,200_.jpg)
 
 ---
 ![](https://it.jarofquotes.com/citazioni/54566.jpg)
@@ -75,8 +75,6 @@ The team make the decision and the managers let it work it out.
 ---
 # Bidirectional
 
-![width:100px](https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Flickr_-_MrSnooks_-_Cairo%2C_Egypt_%289%29.jpg/1200px-Flickr_-_MrSnooks_-_Cairo%2C_Egypt_%289%29.jpg)
-
 * Level 1-3: decision making with the managers 
 * Level 5-7: decision making is with the team 
 * Level 4: team and managers decide toghether
@@ -119,7 +117,7 @@ Make a list of pre-defined cases or situations in which you want to create a del
 
 ---
 # Delegation poker - Steps
-4. Everyone earns points according to the value of thei card, except the players that are the “highest minority” (see below).
+4. Everyone earns points according to the value of thei card, except the players that are the "highest minority".
 5. Let the people with the highest and the lowest cards explain the reasoning behind their choices.
 6. You can then create a Delegation Board to show the results of your consensus.
 
@@ -133,4 +131,4 @@ Make a list of pre-defined cases or situations in which you want to create a del
 * [Management 3.0 book](https://books.google.it/books/about/Management_3_0.html?id=Yoh9mTBwj-sC)
 
 ---
-![](https://images-na.ssl-images-amazon.com/images/I/71yfqncGR%2BL.jpg)
+![bg contain](https://images-na.ssl-images-amazon.com/images/I/71yfqncGR%2BL.jpg)
